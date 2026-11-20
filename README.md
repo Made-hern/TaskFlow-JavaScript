@@ -9,9 +9,9 @@ It helps users organize daily responsibilities by adding, viewing, editing, dele
 
 The application validates task descriptions and uses the browser's localStorage to keep tasks after the page is closed or refreshed.
 
-**Video Demonstration:** [Add your 4–5 minute video link here]
+**Video Demonstration:** [https://us04web.zoom.us/clips/share/cY6q4CPBSGOqpcKY4qhkXQ]
 
-**GitHub Repository:** [Add your GitHub repository link here]
+**GitHub Repository:** [https://github.com/Made-hern/TaskFlow-JavaScript]
 
 ## Development Environment
 
